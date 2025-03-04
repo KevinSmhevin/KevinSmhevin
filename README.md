@@ -1,16 +1,16 @@
 ```
 Hello World!
 ```
+Check out my [portfolio](https://kevinparas.me/)
+
 ***
 
-I'm Kevin, a software developer with 3+ years experience in managing highly scalable backend systems. 
+I’m Kevin, a software developer with 3+ years experience in managing highly scalable applications.
 
-I previously worked at **Tesla** as part of the digital products team. There I worked on process automation software to support the battery, energy and charging products.
+I previously worked at **Tesla** as part of the digital products team. There I worked on tools and infrastructure to support the battery, energy and charging products.
 
 ## Projects
 ***
-
-
 ### - [Pokebin](https://pokebin.app/)
 
 ![Pokebin logo](https://img.icons8.com/?size=100&id=64897&format=png&color=000000)
