@@ -18,6 +18,27 @@ I previously worked at **Tesla** as part of the digital products team. There I w
 [Pokebin](https://pokebin.app/) is an ecommerce app I built to sell various collectibles like pokemon cards.
 I built the app using **Django** as the backend frameworks, **PostgresSQL** for the database and **S3** for object storage.
 
+***
+
+### - [Chef Quackly](https://chef-quackly.onrender.com/)
+
+<a href="https://chef-quackly.onrender.com/">
+  <img src="./rubber-duck.png" alt="Chef Quackly logo" width="100" height="100">
+</a>
+
+[Chef Quackly](https://chef-quackly.onrender.com/) is a chef **React** + AI recipe app integrating LLMs that helps you find recipes based on provided ingredients.
+
+***
+
+### - [Quizzical](https://kevinparas.me/quizzical/)
+
+<a href="https://kevinparas.me/quizzical/">
+  <img src="./quiz.png" alt="Quizzical logo" width="100" height="100">
+</a>
+
+[Quizzical](https://kevinparas.me/quizzical/) is a simple **React** trivia quiz app where you can test your trivia knowledge skills!
+
+***
 
 
 ### - [Watch-games](https://kevinsmhevin.github.io/watch-games/)
